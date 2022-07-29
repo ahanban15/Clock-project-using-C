@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1659069932 source:d:\ahan's college documents\clock\code.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1659071711 source:d:\ahan's college documents\clock\alarm.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1659071801 source:d:\ahan's college documents\projects\clock\alarm.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
